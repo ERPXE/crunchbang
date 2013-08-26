@@ -1,0 +1,16 @@
+.:
+crunchbang.menu
+crunchbang.png
+filelist.txt
+i386
+x86_64
+
+./i386:
+crunchbangmain.menu
+initrd.img
+vmlinuz
+
+./x86_64:
+crunchbangmain.menu
+initrd.img
+vmlinuz
