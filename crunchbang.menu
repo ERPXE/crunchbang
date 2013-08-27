@@ -1,9 +1,6 @@
 MENU BEGIN CRUNCHBANG
 MENU LABEL ^CrunchBang 10
-# ------====> Include Menu Settings <====------
-MENU INCLUDE er/menuinc/header.module
-
-# ------====> Set Specific Page Settings <====------
+MENU TITLE CrunchBang 10
 MENU BACKGROUND er/plugins/crunchbang/crunchbang.png
 
 MENU INCLUDE er/plugins/crunchbang/i386/crunchbangmain.menu
